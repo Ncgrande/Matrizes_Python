@@ -12,7 +12,7 @@
   <img align="center" src="https://img.shields.io/static/v1?label=github&message=NilsonGrande&color=7159c1&style=for-the-badge&logo=ghost)](https://github.com/NilsonGrande"/>
 </a>
 
-# ✅ Atividades de OOP em JAVA
+# ✅ Atividade de POO em PYTHON
 
 <p align="justify">Atividade de matrizes para treinamento pratico dos alunos</p>
 
