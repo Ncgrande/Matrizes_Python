@@ -27,14 +27,14 @@ Exercício prático de Programação Orientada a Objetos (POO) utilizando Python
 
 O programa deve:
 
-1. Receber/ler uma matriz de tamanho **NxN**.  
+- Receber/ler uma matriz de tamanho **NxN**.  
    - Pode ser lida de um arquivo `.txt` ou `.xlsx`.  
    - O código deve detectar automaticamente a quantidade de linhas e colunas.
-2. Verificar se as matrizes inseridas são **quadradas**.
-3. Criar uma função de **soma de dois números**.
-4. Criar uma função de **multiplicação de dois números**.
-5. Utilizar as funções criadas para calcular a **multiplicação de duas matrizes**.
-6. Exibir:
+- Verificar se as matrizes inseridas são **quadradas**.
+- Criar uma função de **soma de dois números**.
+- Criar uma função de **multiplicação de dois números**.
+- Utilizar as funções criadas para calcular a **multiplicação de duas matrizes**.
+- Exibir:
    - Matrizes de entrada  
    - Matriz resultante  
    - Passo a passo do cálculo
