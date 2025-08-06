@@ -47,7 +47,7 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 👽 Feito por
 
-Estudante do 3º semestre de Análise e desenvolvimento de Sistemas:
+Estudante do 4º semestre de Análise e desenvolvimento de Sistemas:
 
 - Nilson Grande
 
